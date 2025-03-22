@@ -1,1 +1,1 @@
-vless://8f656847-ccc7-4618-bdfd-eb36507523b9@194.60.134.78:2083?path=%2F&security=tls&fragment=1-3%2C1-3%2Ctlshello&alpn=http%2F1.1&encryption=none&host=ragnarvm.mukkioffcdn.ru&fp=chrome&type=ws&sni=ragnarvm.mukkioffcdn.ru#German
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMTVmMzdlZTZiNTI4NmNi@148.113.201.160:11106

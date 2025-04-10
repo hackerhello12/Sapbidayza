@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbU5ybU04X1ZRS0Z0R3ZQMlRSSi1B@45.9.41.40:1080
+vless://50a56c08-dd02-4140-a0e0-c325f4614ee0@95.85.51.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#Nederland%F0%9F%87%B3%F0%9F%87%B1
